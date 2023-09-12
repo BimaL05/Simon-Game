@@ -1,4 +1,6 @@
 # Simon-Game
 -Tech used - HTML CSS JS
 
--Creates a series of tone/sound and lights, requires a user to repeat the sequence.
+-Added Lightning, Sound.
+
+-Added the series/pattern of light with a tone to click and proceed.
